@@ -26,10 +26,9 @@ The `bpi_2012_loan_analysis.ipynb` notebook follows a systematic approach to der
 ```
 .
 ├── data/
-│ └── financial_log.xes
+│ └── financial_log.xes.gz
 ├── bpi_2012_loan_analysis.ipynb
-├── report_pdf.pdf
-├── Scenario13.06.2025.pdf
+├── LICENSE
 ├── requirements.txt
 └── README.md
 ```
