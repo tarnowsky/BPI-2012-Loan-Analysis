@@ -1,3 +1,5 @@
 *.pages
 *.pdf
 *.xes
+*.DS_Store
+.idea
